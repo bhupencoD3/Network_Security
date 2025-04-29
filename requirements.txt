@@ -4,7 +4,7 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-pymongo
 certifi
-
+pymongo[srv]==3.11
+pymongo
 # -e .
